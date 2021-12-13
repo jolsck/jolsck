@@ -1,4 +1,4 @@
-# Hi! I am Jorge López 💻�
+# Hi! I am Jorge López 💻
 Welcome to my Github :octocat: README 📖
 
 I am a beginner developer with creative solutions to problems and learning a lot in the process of developing some projects.
